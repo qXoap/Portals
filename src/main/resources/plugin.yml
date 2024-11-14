@@ -1,0 +1,9 @@
+name: Portals
+main: dev.xoapp.portals.Loader
+api: 1.0.0
+version: 1.0.0
+author: Xoapp
+
+permissions:
+  portals.command:
+    default: op
